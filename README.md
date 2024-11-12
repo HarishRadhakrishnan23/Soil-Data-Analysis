@@ -13,9 +13,23 @@ The project contains the following main sections:
 
 To run this project on your local machine, follow these steps:
 
-### Step 1: Clone the Repository
-
-Clone the repository to your local machine using the following command:
 
 ```bash
+### Step 1: Clone the Repository
+
 git clone <https://github.com/HarishRadhakrishnan23/Soil-Data-Analysis.git>
+
+### Step 2: Navigate to the Project Directory
+
+cd <Soil-Data-Analysis>
+
+### Step 3: Install Dependencies
+
+pip install numpy pandas matplotlib seaborn
+
+###Step 4: Place the Dataset
+
+jupyter notebook Dataorchprj.py
+
+
+
