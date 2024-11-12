@@ -18,4 +18,4 @@ To run this project on your local machine, follow these steps:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/HarishRadhakrishnan23/Soil-Data-Analysis.git>
